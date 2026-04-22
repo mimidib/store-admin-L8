@@ -122,7 +122,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 120px;
+  margin-top: 160px;
   padding: 1rem;
 }
 
@@ -131,7 +131,7 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #333;
+  background-color: #003087;
   color: #fff;
   padding: 1rem;
   margin: 0;
